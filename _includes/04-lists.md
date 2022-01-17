@@ -1,3 +1,3 @@
-*Comer
-*Jugar a
-  *Minecraft
+* Comer
+* Jugar a
+  * Minecraft
